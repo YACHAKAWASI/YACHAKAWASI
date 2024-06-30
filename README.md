@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Aditya Kanoi Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.postposmo.com%2Fanimales-en-peligro-de-extincion-en-peru%2F&psig=AOvVaw0CqjEk4HZylc13Flu_4qy8&ust=1719847783983000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC_8rTSg4cDFQAAAAAdAAAAABAE)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
