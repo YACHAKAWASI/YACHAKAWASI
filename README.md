@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.postposmo.com%2Fanimales-en-peligro-de-extincion-en-peru%2F&psig=AOvVaw0CqjEk4HZylc13Flu_4qy8&ust=1719847783983000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC_8rTSg4cDFQAAAAAdAAAAABAE)
+![Aditya Kanoi Banner](https://www.postposmo.com/wp-content/uploads/2020/05/animales-en-peligro-de-extincion-en-peru-00.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
