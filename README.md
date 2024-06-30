@@ -1,8 +1,8 @@
-![Aditya Kanoi Banner](https://www.postposmo.com/wp-content/uploads/2020/05/animales-en-peligro-de-extincion-en-peru-00.jpg)
+![Aditya Kanoi Banner](https://postgradoingenieria.com/wp-content/uploads/robots-industriales-1536x480.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<!-- ## 👋 &nbsp;Hey there! I'm Ever -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
